@@ -4,4 +4,3 @@ for i in range(n):
     r=int(q,8)
     r=bin(r)
     print(r.replace("0b",""))
-    
